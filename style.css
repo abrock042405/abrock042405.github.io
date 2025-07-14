@@ -1,32 +1,32 @@
 body {
   font-family: Garamond, serif;
-  background-color: #3E8E41;
-  color: #FFFAAE;
+  background-color: #2F5D3B; 
+  color: #FFFBE6;     
   text-align: center;
   margin: 0;
   padding: 2rem;
 }
 
 h1 {
-  color: #4B2E0F;
+  color: #4B2E0F;      
   font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  color: #FFFAAE;
+  color: #F4E3B2;     
   margin-top: 2rem;
 }
 
 a {
   text-decoration: none;
-  color: #FFE14C;
+  color: #FFD700;       
   font-size: 1.3rem;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #FFF8A6;
+  color: #FFF3A1;     
 }
 
 ul {

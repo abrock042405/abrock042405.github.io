@@ -1,32 +1,39 @@
 body {
-  font-family: 'EB Garamond', serif;
-  background-color: #658354;
-  color: #432616;
+  font-family: Garamond, serif;
+  background-color: #3E8E41;
+  color: #FFFAAE;
   text-align: center;
   margin: 0;
   padding: 2rem;
 }
 
 h1 {
-  color: #65350F;
+  color: #4B2E0F;
   font-size: 2.5rem;
+  margin-bottom: 1rem;
 }
 
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-nav ul li {
-  margin: 1rem 0;
+h2 {
+  color: #FFFAAE;
+  margin-top: 2rem;
 }
 
 a {
   text-decoration: none;
-  color: #E6CA27;
-  font-size: 1.5rem;
+  color: #FFE14C;
+  font-size: 1.3rem;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #FFF8A6;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 1rem 0;
 }
